@@ -140,8 +140,8 @@ vk.com##div#box_layer > div.popup_box_container.PushNotifierPopup__popup-box_typ
 vk.com##.profile_rate_warning
 
 ! Кнопочки поделиться в группах
-!#vk.com###page_menu_group_invite
-!#vk.com###page_menu_group_share
+!vk.com###page_menu_group_invite
+!vk.com###page_menu_group_share
 
 ! хуита которая типа чем та должна помогать в группах, но хуита
 vk.com## .feature_intro_tt, .feature_info_tooltip
@@ -150,8 +150,8 @@ vk.com## .feature_intro_tt, .feature_info_tooltip
 ||stats.vk-portal.net/web-stats
 
 ! комментарии к постам
-!#vk.com##div [ class="replies"]
-!#vk.com##div [ class="post_replies_header clear_fix"]
+!vk.com##div [ class="replies"]
+!vk.com##div [ class="post_replies_header clear_fix"]
 
 ! вам может быть интересно в музыке
 vk.com##div [ class=" CatalogBlock__my_music_banners_header CatalogBlock__header"]
@@ -160,5 +160,5 @@ vk.com##div [ class="CatalogBlock__content CatalogBlock__my_music_banners Catalo
 ! Популярные клипы
 vk.com##div [ class="page_block ShortVideoFeedBlock"]
 
-#Новый банер в музыке
+! Новый банер в музыке
 vk.com##div [ class="audio_promo"]
