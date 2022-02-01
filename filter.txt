@@ -1,2 +1,3 @@
+[Adblock Plus 3.4]
 ! Юзлесс говно на странице
 vk.com##.profile_rate_warning
