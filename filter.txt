@@ -1,4 +1,4 @@
-# Реклама групп с пометкой рекламы
+! Реклама групп с пометкой рекламы
 vk.com#?##page_wall_posts > div[id^="post-"]:-abp-has(.wall_marked_as_ads)
 
 ! Реклама интересных авторов
@@ -134,8 +134,8 @@ vk.com##div#box_layer > div.popup_box_container.PushNotifierPopup__popup-box_typ
 vk.com##.profile_rate_warning
 
 ! Кнопочки поделиться в группах
-#vk.com###page_menu_group_invite
-#vk.com###page_menu_group_share
+!#vk.com###page_menu_group_invite
+!#vk.com###page_menu_group_share
 
 ! хуита которая типа чем та должна помогать в группах, но хуита
 vk.com## .feature_intro_tt, .feature_info_tooltip
@@ -144,8 +144,8 @@ vk.com## .feature_intro_tt, .feature_info_tooltip
 ||stats.vk-portal.net/web-stats
 
 ! комментарии к постам
-#vk.com##div [ class="replies"]
-#vk.com##div [ class="post_replies_header clear_fix"]
+!#vk.com##div [ class="replies"]
+!#vk.com##div [ class="post_replies_header clear_fix"]
 
 ! вам может быть интересно в музыке
 vk.com##div [ class=" CatalogBlock__my_music_banners_header CatalogBlock__header"]
